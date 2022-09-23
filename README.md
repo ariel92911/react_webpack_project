@@ -3,7 +3,7 @@
 執行以下步驟之後就可以開始開發
 
 1. `git clone https://github.com/ariel92911/react_webpack_project.git`
-2. `cd webpack_project`
+2. `cd react_webpack_project`
 3. `npm install`
 
 開發指令：npm run start
